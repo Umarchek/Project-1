@@ -1,0 +1,2548 @@
+Uri: https://lucialashandbrow.com/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/03/IMG_2346-2.jpg?id=10210
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\03\IMG_2346-2.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/comments/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.4
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\instagram-feed\css\sbi-styles.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks.css?ver=2.17.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_blocks.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\vendors-style.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\eae.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/css/bootstrap.min.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/style.css?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\style.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/css/kd_vc_front.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\css\kd_vc_front.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.6
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/css/woocommerce.css
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/css/jetpack.css?ver=10.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\css\jetpack.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\index.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/25
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\25.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/xmlrpc.php?rsd
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/booking-store-policies/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\booking-store-policies\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/cart/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\cart\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/price-test-7-13-2021/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\price-test-7-13-2021\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/shop/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\shop\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/my-account/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\my-account\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/terms-and-conditions/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\terms-and-conditions\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/aboutus/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\aboutus\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/contactus/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\contactus\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/recruit/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\recruit\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/blog/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/location/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\location\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/stamford-ct/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\stamford-ct\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/parkslope-brooklyn/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\parkslope-brooklyn\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/pricing2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\pricing2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/stackable-ultimate-gutenberg-blocks/dist/frontend_blocks.js?ver=2.17.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\stackable-ultimate-gutenberg-blocks\dist\frontend_blocks.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/js/owl.carousel.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/js/kd_addon_script.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\js\kd_addon_script.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.6
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.6
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/js/woocommerce-keydesign.js
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\js\woocommerce-keydesign.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/creative-mail-by-constant-contact/assets/js/block/submit.js?ver=1633643769
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\creative-mail-by-constant-contact\assets\js\block\submit.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20191001
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\build\photon\photon.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\eae.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/animated-main.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\animated-main.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/particles.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\js\particles.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/magnific.min.js?ver=1.9
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\magnific.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/vegas/vegas.min.js?ver=2.4.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\lib\vegas\vegas.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.3
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\mailchimp-for-woocommerce\public\js\mailchimp-woocommerce-public.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/js/bootstrap.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/js/SmoothScroll.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\js\SmoothScroll.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/js/scripts.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.4
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\instagram-feed\js\sbi-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/instagram-feed/img/small-logo.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\instagram-feed\img\small-logo.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-left.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/arrow-right.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\css\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digit-sep-svg.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digit-sep-svg.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/digits-svg-alpha.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\addon-elements-for-elementor-page-builder\assets\digits-svg-alpha.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/fonts/sway-font.eot
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\fonts\sway-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/fonts/sway-font.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\fonts\sway-font.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/fonts/sway-font.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\fonts\sway-font.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/images/icons/select-arrow.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\images\icons\select-arrow.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/images/contact-loader.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\images\contact-loader.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/share.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\share.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/long-shadow.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\long-shadow.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/section-bg.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\section-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/dots.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\dots.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/scroll-down.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\scroll-down.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/themes/sway/core/assets/images/icons/loader.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\themes\sway\core\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/9429
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\9429.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbooking-store-policies%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbooking-store-policies%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-styles.css?ver=5.6.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\css\stripe-styles.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/21
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\21.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fcart%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fcart%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/tokenization-form.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\tokenization-form.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js?ver=5.6.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\js\stripe-payment-request.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/jquery-payment/jquery.payment.min.js?ver=3.0.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\jquery-payment\jquery.payment.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js?ver=5.6.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\js\stripe.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/10592
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\10592.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fprice-test-7-13-2021%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fprice-test-7-13-2021%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/lash-services/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\lash-services\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/brow-services/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\brow-services\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/permanent-makeup-services/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\permanent-makeup-services\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/shop/page/2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\shop\page\2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/shop/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\shop\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/black-coating/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\black-coating\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/lash/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\lash\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-dark-brown/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-dark-brown\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/browcare/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\browcare\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-light-brown/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-light-brown\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-middle-brown/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-middle-brown\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/coconut-moist-wax/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\coconut-moist-wax\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/body/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\body\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-gorgeous-c-curl-10-11-12mm/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-gorgeous-c-curl-10-11-12mm\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/makeup/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\makeup\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-small-c-curl-9-10-11mm/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-small-c-curl-9-10-11mm\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-system-medium-c-curl-10-11-12/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-system-medium-c-curl-10-11-12\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/diy-lash-extension/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-lash-extension\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/shop/page/3/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\shop\page\3\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/shop/page/4/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\shop\page\4\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/23
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\23.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fmy-account%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fmy-account%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/my-account/lost-password/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\my-account\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/3985
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\3985.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fterms-and-conditions%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fterms-and-conditions%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/category/beauty/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\category\beauty\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/category/uncategorized/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Seo-Icons.woff?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Seo-Icons.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Seo-Icons.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\iconsmind-Seo-Icons.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Security.woff?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Security.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Security.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\iconsmind-Security.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.woff?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Cloud-Class.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Cloud-Class.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\iconsmind-Cloud-Class.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/5720
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\5720.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Faboutus%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Faboutus%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.woff?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Emails.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/iconsmind-Emails.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\iconsmind-Emails.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/5750
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\5750.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fcontactus%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fcontactus%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/10306
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\10306.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Frecruit%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Frecruit%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/ombre-brows-what-it-is-and-how-it-differs-from-miroblading/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\ombre-brows-what-it-is-and-how-it-differs-from-miroblading\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/author/lucialashandbrow/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\author\lucialashandbrow\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/grand-opening-parkslope-brooklyn/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\grand-opening-parkslope-brooklyn\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/microblading-vs-nanoblading/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\microblading-vs-nanoblading\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/brow-lamination-in-stamford-connecticut/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\brow-lamination-in-stamford-connecticut\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/brow-lamination-taking-beauty-industry-by-storm/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\brow-lamination-taking-beauty-industry-by-storm\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/what-is-brow-lamination-2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\what-is-brow-lamination-2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/10216
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\10216.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Flocation%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Flocation%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/elementor/css/post-10700.css?ver=1630369212
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\elementor\css\post-10700.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/elementor/css/global.css?ver=1630369214
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/elementor/css/post-10701.css?ver=1633872960
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\elementor\css\post-10701.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/10701
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\10701.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fstamford-ct%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fstamford-ct%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.5
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/wp-util.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/elementor/css/post-11005.css?ver=1633866685
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\elementor\css\post-11005.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/11005
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\11005.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fparkslope-brooklyn%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fparkslope-brooklyn%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/css/vc_carousel.min.css?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\vc_carousel\css\vc_carousel.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\css\prettyPhoto.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/10446
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\10446.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpricing2%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpricing2%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/04/IMG_1672.heic
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\04\IMG_1672.heic
+Content Type: 
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/04/IMG_1668-1.heic
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\04\IMG_1668-1.heic
+Content Type: 
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/transition.min.js?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\vc_carousel\js\transition.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/vc_carousel/js/vc_carousel.min.js?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\vc_carousel\js\vc_carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.5.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\js\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/pricing/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\pricing\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/5730
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\5730.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpricing%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpricing%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/home-beauty-salon/aboutus-2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\home-beauty-salon\aboutus-2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/02/aboutus.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\02\aboutus.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/credit-card.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\credit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/visa.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/amex.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/diners.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/discover.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/jcb.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/maestro.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce-gateway-stripe/assets/images/mastercard.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce-gateway-stripe\assets\images\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/9622
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\9622.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Flash-services%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Flash-services%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/9624
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\9624.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-services%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-services%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/pages/9627
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\pages\9627.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpermanent-makeup-services%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fpermanent-makeup-services%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/diy-lash-tweezer/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-lash-tweezer\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/japanese-lash-perming-lotion-thio-free/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\japanese-lash-perming-lotion-thio-free\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/keratin-boost/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-boost\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/eyecare/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\eyecare\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/keratin-boost-2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-boost-2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/keratin-lash-glue/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-lash-glue\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lash-lift-base-glue/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-lift-base-glue\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lash-fix-gentle-glue/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-fix-gentle-glue\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lash-rod-l-curve/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-rod-l-curve\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lash-rod-u-curve/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-rod-u-curve\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/black-coating/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\black-coating\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/css/photoswipe.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\css\photoswipe.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9435
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9435.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fblack-coating%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-17.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fblack-coating%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-17.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/2021/10/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\2021\10\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/2021/09/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\2021\09\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/2021/05/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\2021\05\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/2021/03/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\2021\03\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-login.php
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-login.html
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/brow/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\brow\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/lashcare/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\lashcare\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/skincare/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\skincare\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/suncare/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\suncare\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/uncategorized/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lash-water-proof-glue-black-coating/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-water-proof-glue-black-coating\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-dark-brown/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-dark-brown\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lucia-flat-lash/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lucia-flat-lash\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/refectocil-blueblack/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\refectocil-blueblack\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/product-category/lash/page/2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\lash\page\2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/lash/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\lash\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-dark-brown/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-dark-brown\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9286
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9286.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-dark-brown%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-18.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-dark-brown%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-18.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-shallow-chestnut/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-shallow-chestnut\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-chestnut-brown/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-chestnut-brown\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/rapid-brow/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rapid-brow\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/browcare/page/2/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\browcare\page\2\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product-category/browcare/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\browcare\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-caramel-color/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-caramel-color\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-flax-green/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-flax-green\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-light-brown/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-light-brown\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9288
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9288.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-light-brown%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-19.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-light-brown%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-19.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-tan/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-tan\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/bromlamination-brow-pencil-middle-brown/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\bromlamination-brow-pencil-middle-brown\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9287
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9287.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-middle-brown%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-20.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fbromlamination-brow-pencil-middle-brown%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-20.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/coconut-moist-wax/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\coconut-moist-wax\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9437
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9437.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fcoconut-moist-wax%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-21.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fcoconut-moist-wax%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-21.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product-category/body/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\body\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-gorgeous-c-curl-10-11-12mm/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-gorgeous-c-curl-10-11-12mm\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9439
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9439.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-gorgeous-c-curl-10-11-12mm%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-22.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-gorgeous-c-curl-10-11-12mm%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-22.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product-category/makeup/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\makeup\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-small-c-curl-9-10-11mm/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-small-c-curl-9-10-11mm\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9441
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9441.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-small-c-curl-9-10-11mm%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-23.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-small-c-curl-9-10-11mm%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-23.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/diy-home-lash-extension-system-medium-c-curl-10-11-12/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-home-lash-extension-system-medium-c-curl-10-11-12\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9444
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9444.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-system-medium-c-curl-10-11-12%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-24.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-home-lash-extension-system-medium-c-curl-10-11-12%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-24.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/diy-lash-extension/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-lash-extension\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9470
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9470.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-lash-extension%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-25.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-lash-extension%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-25.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-shampoo/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-shampoo\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/lucia-lash-serum/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lucia-lash-serum\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/rapid-lash/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rapid-lash\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/refectocil-pureblack/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\refectocil-pureblack\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/product/rodan-＋-fields-lash-boost-serum/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rodan-＋-fields-lash-boost-serum\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-admin/js/password-strength-meter.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=5.0.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/category/beauty/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\category\beauty\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/categories/16
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\categories\16.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/category/uncategorized/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/categories/1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Seo-Icons.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Seo-Icons-1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Seo-Icons.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Seo-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Security.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Security-1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Security.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Security.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Cloud-Class-1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Cloud-Class.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Cloud-Class.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.woff
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Emails-1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/includes/wpbakery-extend/assets/css/iconsmind/fonts/Emails.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\includes\wpbakery-extend\assets\css\iconsmind\fonts\Emails.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/ombre-brows-what-it-is-and-how-it-differs-from-miroblading/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\ombre-brows-what-it-is-and-how-it-differs-from-miroblading\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/11000
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\11000.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fombre-brows-what-it-is-and-how-it-differs-from-miroblading%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-26.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fombre-brows-what-it-is-and-how-it-differs-from-miroblading%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-26.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/author/lucialashandbrow/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\author\lucialashandbrow\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/users/1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\users\1.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/grand-opening-parkslope-brooklyn/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\grand-opening-parkslope-brooklyn\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/10985
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\10985.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fgrand-opening-parkslope-brooklyn%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-27.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fgrand-opening-parkslope-brooklyn%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-27.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/microblading-vs-nanoblading/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\microblading-vs-nanoblading\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/10972
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\10972.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fmicroblading-vs-nanoblading%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-28.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fmicroblading-vs-nanoblading%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-28.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/brow-lamination-in-stamford-connecticut/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\brow-lamination-in-stamford-connecticut\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/10939
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\10939.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-lamination-in-stamford-connecticut%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-29.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-lamination-in-stamford-connecticut%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-29.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/brow-lamination-taking-beauty-industry-by-storm/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\brow-lamination-taking-beauty-industry-by-storm\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/10526
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\10526.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-lamination-taking-beauty-industry-by-storm%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-30.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fbrow-lamination-taking-beauty-industry-by-storm%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-30.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/what-is-brow-lamination-2/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\what-is-brow-lamination-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/posts/10205
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\posts\10205.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fwhat-is-brow-lamination-2%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-31.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fwhat-is-brow-lamination-2%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-31.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.12.0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/mt-2009-gallery-img05.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\mt-2009-gallery-img05.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/04/IMG_1433.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\04\IMG_1433.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/IMG_2346-2.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\IMG_2346-2.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/mt-1429-content-bg-1.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\mt-1429-content-bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/ezgif.com-webp-to-png-1-min.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\ezgif.com-webp-to-png-1-min.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/mt-2009-gallery-img02.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\mt-2009-gallery-img02.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/mt-2009-gallery-img09.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\mt-2009-gallery-img09.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/IMG_B82DB6E3C1B5-1.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\IMG_B82DB6E3C1B5-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/08/mt-1429-content-bg-3.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\08\mt-1429-content-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/10/ezgif.com-webp-to-png-1-min.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\10\ezgif.com-webp-to-png-1-min.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/10/IMG_0905.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\10\IMG_0905.jpeg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/10/IMG_1204.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\10\IMG_1204.jpeg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/10/IMG_1199.jpeg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\10\IMG_1199.jpeg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/uploads/2021/06/IMG_8198.jpg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\uploads\2021\06\IMG_8198.jpg
+Content Type: image/jpeg
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/product/diy-lash-tweezer/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\diy-lash-tweezer\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9445
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9445.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-lash-tweezer%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-32.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fdiy-lash-tweezer%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-32.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/japanese-lash-perming-lotion-thio-free/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\japanese-lash-perming-lotion-thio-free\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9446
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9446.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fjapanese-lash-perming-lotion-thio-free%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-33.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fjapanese-lash-perming-lotion-thio-free%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-33.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/keratin-boost/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-boost\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9270
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9270.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-boost%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-34.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-boost%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-34.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product-category/eyecare/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\eyecare\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/keratin-boost-2/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-boost-2\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9449
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9449.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-boost-2%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-35.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-boost-2%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-35.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/keratin-lash-glue/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\keratin-lash-glue\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9451
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9451.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-lash-glue%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-36.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fkeratin-lash-glue%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-36.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-lift-base-glue/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-lift-base-glue\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9462
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9462.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-lift-base-glue%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-37.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-lift-base-glue%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-37.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-fix-gentle-glue/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-fix-gentle-glue\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9453
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9453.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-fix-gentle-glue%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-38.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-fix-gentle-glue%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-38.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-rod-l-curve/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-rod-l-curve\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9457
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9457.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-rod-l-curve%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-39.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-rod-l-curve%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-39.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-rod-u-curve/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-rod-u-curve\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9455
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9455.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-rod-u-curve%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-40.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-rod-u-curve%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-40.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\photoswipe\default-skin.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/default-skin.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\photoswipe\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/keydesign-addon/assets/img/photoswipe/preloader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\keydesign-addon\assets\img\photoswipe\preloader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/2021/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\2021\index.htm
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-includes/css/dashicons.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-includes/css/buttons.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-admin/css/forms.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-admin/css/l10n.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-admin/css/login.min.css?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\genericons\genericons\genericons.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.css?ver=10.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\sso\jetpack-sso-login.css
+Content Type: text/css
+
+Uri: https://lucialashandbrow.com/wp-login.php?jetpack-sso-show-default-form=1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-login-1.html
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-login.php?jetpack-sso-show-default-form=0
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-login-2.html
+Content Type: text/html
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.js?ver=10.2
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\modules\sso\jetpack-sso-login.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/wp-admin/js/user-profile.min.js?ver=5.8.1
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://lucialashandbrow.com/product-category/brow/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\brow\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product-category/lashcare/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\lashcare\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product-category/skincare/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\skincare\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product-category/suncare/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\suncare\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product-category/uncategorized/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product-category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/product/lash-water-proof-glue-black-coating/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-water-proof-glue-black-coating\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9266
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9266.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-water-proof-glue-black-coating%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-41.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-water-proof-glue-black-coating%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-41.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-dark-brown/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-dark-brown\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9285
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9285.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-dark-brown%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-42.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-dark-brown%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-42.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lucia-flat-lash/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lucia-flat-lash\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9459
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9459.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flucia-flat-lash%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-43.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flucia-flat-lash%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-43.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/refectocil-blueblack/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\refectocil-blueblack\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9464
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9464.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frefectocil-blueblack%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-44.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frefectocil-blueblack%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-44.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-shallow-chestnut/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-shallow-chestnut\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9279
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9279.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-shallow-chestnut%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-45.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-shallow-chestnut%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-45.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-chestnut-brown/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-chestnut-brown\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9277
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9277.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-chestnut-brown%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-46.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-chestnut-brown%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-46.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/rapid-brow/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rapid-brow\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9271
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9271.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frapid-brow%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-47.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frapid-brow%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-47.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-caramel-color/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-caramel-color\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9281
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9281.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-caramel-color%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-48.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-caramel-color%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-48.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-flax-green/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-flax-green\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9283
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9283.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-flax-green%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-49.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-flax-green%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-49.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/waterproof-brow-pencil-tan/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\waterproof-brow-pencil-tan\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9282
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9282.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-tan%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-50.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Fwaterproof-brow-pencil-tan%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-50.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lash-shampoo/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lash-shampoo\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9267
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9267.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-shampoo%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-51.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flash-shampoo%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-51.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/lucia-lash-serum/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\lucia-lash-serum\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9461
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9461.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flucia-lash-serum%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-52.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Flucia-lash-serum%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-52.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/rapid-lash/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rapid-lash\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9276
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9276.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frapid-lash%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-53.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frapid-lash%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-53.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/refectocil-pureblack/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\refectocil-pureblack\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9468
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9468.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frefectocil-pureblack%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-54.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frefectocil-pureblack%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-54.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/product/rodan-＋-fields-lash-boost-serum/feed/
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\product\rodan-＋-fields-lash-boost-serum\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://lucialashandbrow.com/wp-json/wp/v2/product/9269
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\wp\v2\product\9269.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frodan-%25ef%25bc%258b-fields-lash-boost-serum%2F
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-55.json
+Content Type: application/json
+
+Uri: https://lucialashandbrow.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flucialashandbrow.com%2Fproduct%2Frodan-%25ef%25bc%258b-fields-lash-boost-serum%2F&format=xml
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-json\oembed\1.0\embed-55.xml
+Content Type: text/xml
+
+Uri: https://lucialashandbrow.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-admin/images/loading.gif
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://lucialashandbrow.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://lucialashandbrow.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot?
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.ttf
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.ttf
+Content Type: font/ttf
+
+Uri: https://lucialashandbrow.com/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.svg
+File Name: C:\Users\Umarjon\Desktop\sites\lucialashandbrow.com\wp-content\plugins\jetpack\_inc\genericons\genericons\Genericons.svg
+Content Type: image/svg+xml
+

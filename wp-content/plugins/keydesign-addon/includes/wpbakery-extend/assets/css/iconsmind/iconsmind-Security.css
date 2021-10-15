@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'iconsmind-Security';
+  src: url('fonts/Security-1.woff') format('woff'),
+       url('fonts/Security.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Security[class^="iconsmind-"], .iconsmind-Security[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Security' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Computer-Secure:before { content: "\e900"!important; }
+.iconsmind-Eye-Scan:before { content: "\e901"!important; }
+.iconsmind-Finger-Print:before { content: "\e902"!important; }
+.iconsmind-Firewall:before { content: "\e903"!important; }
+.iconsmind-Key-Lock:before { content: "\e904"!important; }
+.iconsmind-Laptop-Secure:before { content: "\e905"!important; }
+.iconsmind-Layer-1532:before { content: "\e906"!important; }
+.iconsmind-Lock:before { content: "\e907"!important; }
+.iconsmind-Lock-2:before { content: "\e908"!important; }
+.iconsmind-Lock-3:before { content: "\e909"!important; }
+.iconsmind-Password:before { content: "\e90a"!important; }
+.iconsmind-Password-Field:before { content: "\e90b"!important; }
+.iconsmind-Police:before { content: "\e90c"!important; }
+.iconsmind-Safe-Box:before { content: "\e90d"!important; }
+.iconsmind-Security-Block:before { content: "\e90e"!important; }
+.iconsmind-Security-Bug:before { content: "\e90f"!important; }
+.iconsmind-Security-Camera:before { content: "\e910"!important; }
+.iconsmind-Security-Check:before { content: "\e911"!important; }
+.iconsmind-Security-Settings:before { content: "\e912"!important; }
+.iconsmind-Securiy-Remove:before { content: "\e913"!important; }
+.iconsmind-Shield:before { content: "\e914"!important; }
+.iconsmind-Smartphone-Secure:before { content: "\e915"!important; }
+.iconsmind-SSL:before { content: "\e916"!important; }
+.iconsmind-Tablet-Secure:before { content: "\e917"!important; }
+.iconsmind-Type-Pass:before { content: "\e918"!important; }
+.iconsmind-Unlock:before { content: "\e919"!important; }
+.iconsmind-Unlock-2:before { content: "\e91a"!important; }
+.iconsmind-Unlock-3:before { content: "\e91b"!important; }

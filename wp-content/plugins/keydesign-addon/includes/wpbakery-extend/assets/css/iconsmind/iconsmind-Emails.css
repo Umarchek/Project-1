@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'iconsmind-Emails';
+  src: url('fonts/Emails-1.woff') format('woff'),
+       url('fonts/Emails.ttf') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Emails[class^="iconsmind-"], .iconsmind-Emails[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Emails' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-At-Sign:before { content: "\e900"!important; }
+.iconsmind-Box-Full:before { content: "\e901"!important; }
+.iconsmind-Empty-Box:before { content: "\e902"!important; }
+.iconsmind-Envelope:before { content: "\e903"!important; }
+.iconsmind-Envelope-2:before { content: "\e904"!important; }
+.iconsmind-Inbox:before { content: "\e905"!important; }
+.iconsmind-Inbox-Empty:before { content: "\e906"!important; }
+.iconsmind-Inbox-Forward:before { content: "\e907"!important; }
+.iconsmind-Inbox-Full:before { content: "\e908"!important; }
+.iconsmind-Inbox-Into:before { content: "\e909"!important; }
+.iconsmind-Inbox-Out:before { content: "\e90a"!important; }
+.iconsmind-Inbox-Reply:before { content: "\e90b"!important; }
+.iconsmind-Letter-Close:before { content: "\e90c"!important; }
+.iconsmind-Letter-Open:before { content: "\e90d"!important; }
+.iconsmind-Letter-Sent:before { content: "\e90e"!important; }
+.iconsmind-Mail:before { content: "\e90f"!important; }
+.iconsmind-Mail-2:before { content: "\e910"!important; }
+.iconsmind-Mail-3:before { content: "\e911"!important; }
+.iconsmind-Mail-Add:before { content: "\e912"!important; }
+.iconsmind-Mail-Attachement:before { content: "\e913"!important; }
+.iconsmind-Mail-Block:before { content: "\e914"!important; }
+.iconsmind-Mailbox-Empty:before { content: "\e915"!important; }
+.iconsmind-Mailbox-Full:before { content: "\e916"!important; }
+.iconsmind-Mail-Delete:before { content: "\e917"!important; }
+.iconsmind-Mail-Favorite:before { content: "\e918"!important; }
+.iconsmind-Mail-Forward:before { content: "\e919"!important; }
+.iconsmind-Mail-Gallery:before { content: "\e91a"!important; }
+.iconsmind-Mail-Inbox:before { content: "\e91b"!important; }
+.iconsmind-Mail-Link:before { content: "\e91c"!important; }
+.iconsmind-Mail-Lock:before { content: "\e91d"!important; }
+.iconsmind-Mail-Love:before { content: "\e91e"!important; }
+.iconsmind-Mail-Money:before { content: "\e91f"!important; }
+.iconsmind-Mail-Open:before { content: "\e920"!important; }
+.iconsmind-Mail-Outbox:before { content: "\e921"!important; }
+.iconsmind-Mail-Password:before { content: "\e922"!important; }
+.iconsmind-Mail-Photo:before { content: "\e923"!important; }
+.iconsmind-Mail-Read:before { content: "\e924"!important; }
+.iconsmind-Mail-Removex:before { content: "\e925"!important; }
+.iconsmind-Mail-Reply:before { content: "\e926"!important; }
+.iconsmind-Mail-ReplyAll:before { content: "\e927"!important; }
+.iconsmind-Mail-Search:before { content: "\e928"!important; }
+.iconsmind-Mail-Send:before { content: "\e929"!important; }
+.iconsmind-Mail-Settings:before { content: "\e92a"!important; }
+.iconsmind-Mail-Unread:before { content: "\e92b"!important; }
+.iconsmind-Mail-Video:before { content: "\e92c"!important; }
+.iconsmind-Mail-withAtSign:before { content: "\e92d"!important; }
+.iconsmind-Mail-WithCursors:before { content: "\e92e"!important; }
+.iconsmind-New-Mail:before { content: "\e92f"!important; }
+.iconsmind-Post-Mail:before { content: "\e930"!important; }
+.iconsmind-Post-Mail2:before { content: "\e931"!important; }
+.iconsmind-Spam-Mail:before { content: "\e932"!important; }
+.iconsmind-Stamp:before { content: "\e933"!important; }
+.iconsmind-Stamp-2:before { content: "\e934"!important; }
+.iconsmind-Voicemail:before { content: "\e935"!important; }

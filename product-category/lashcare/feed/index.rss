@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lashcare - LUCIA LASH/BROW</title>
+	<atom:link href="https://lucialashandbrow.com/product-category/lashcare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lucialashandbrow.com</link>
+	<description>EYELASH &#38; EYEBROW CARE</description>
+	<lastBuildDate>Tue, 17 Aug 2021 07:06:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://i2.wp.com/lucialashandbrow.com/wp-content/uploads/2021/02/cropped-IMG_4509.jpg?fit=32%2C32&#038;ssl=1</url>
+	<title>Lashcare - LUCIA LASH/BROW</title>
+	<link>https://lucialashandbrow.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">189333333</site>	<item>
+		<title>Lucia Lash Serum</title>
+		<link>https://lucialashandbrow.com/product/lucia-lash-serum/</link>
+					<comments>https://lucialashandbrow.com/product/lucia-lash-serum/#respond</comments>
+		
+		<dc:creator><![CDATA[lucialashandbrow]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2021 17:22:38 +0000</pubDate>
+				<guid isPermaLink="false">https://lucialashandbrow.com/?post_type=product&#038;p=9461</guid>
+
+					<description><![CDATA[<p>Contains botanical ingredients and peptides  Hyaluronic acid helps to condition eyelashes, so they are stronger against breakage  Contains a unique [&#8230;]</p>
+<p>The post <a href="https://lucialashandbrow.com/product/lucia-lash-serum/">Lucia Lash Serum</a> first appeared on <a href="https://lucialashandbrow.com">LUCIA LASH/BROW</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 "><span data-verified="redactor" data-redactor-tag="span" data-redactor-style="box-sizing: border-box; caret-color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);">Contains botanical ingredients and peptides</span></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 "><span data-verified="redactor" data-redactor-tag="span" data-redactor-style="caret-color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);"> Hyaluronic acid helps to condition eyelashes, so they are stronger against breakage</span></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 "><span data-verified="redactor" data-redactor-tag="span" data-redactor-style="caret-color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);"> Contains a unique ingredient, pumpkin seed extract, with iron and zinc minerals</span></div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 "><span data-verified="redactor" data-redactor-tag="span" data-redactor-style="caret-color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(26, 26, 26, 0.301961); -webkit-text-size-adjust: auto; background-color: rgba(255, 255, 255, 0);"> The company offers a 90-day return policy</span></div><p>The post <a href="https://lucialashandbrow.com/product/lucia-lash-serum/">Lucia Lash Serum</a> first appeared on <a href="https://lucialashandbrow.com">LUCIA LASH/BROW</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>https://lucialashandbrow.com/product/lucia-lash-serum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9461</post-id>	</item>
+	</channel>
+</rss>

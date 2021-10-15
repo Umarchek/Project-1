@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'iconsmind-Seo-Icons';
+  src: url('fonts/Seo-Icons-1.woff') format('woff'),
+       url('fonts/Seo-Icons.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.iconsmind-Seo-Icons[class^="iconsmind-"], .iconsmind-Seo-Icons[class*=" iconsmind-"] {
+  font-family: 'iconsmind-Seo-Icons' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+.iconsmind-Broke-Link2:before { content: "\e900"!important; }
+.iconsmind-Coding:before { content: "\e901"!important; }
+.iconsmind-Consulting:before { content: "\e902"!important; }
+.iconsmind-Copyright:before { content: "\e903"!important; }
+.iconsmind-Idea-2:before { content: "\e904"!important; }
+.iconsmind-Idea-3:before { content: "\e905"!important; }
+.iconsmind-Idea-4:before { content: "\e906"!important; }
+.iconsmind-Idea-5:before { content: "\e907"!important; }
+.iconsmind-Internet:before { content: "\e908"!important; }
+.iconsmind-Internet-2:before { content: "\e909"!important; }
+.iconsmind-Link-2:before { content: "\e90a"!important; }
+.iconsmind-Management:before { content: "\e90b"!important; }
+.iconsmind-Monitor-Analytics:before { content: "\e90c"!important; }
+.iconsmind-Monitoring:before { content: "\e90d"!important; }
+.iconsmind-Optimization:before { content: "\e90e"!important; }
+.iconsmind-Search-People:before { content: "\e90f"!important; }
+.iconsmind-Tag:before { content: "\e910"!important; }
+.iconsmind-Target:before { content: "\e911"!important; }
+.iconsmind-Target-Market:before { content: "\e912"!important; }
+.iconsmind-Testimonal:before { content: "\e913"!important; }
