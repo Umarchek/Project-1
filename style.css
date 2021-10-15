@@ -1627,3 +1627,188 @@ body.woocommerce-page ul.products li.product.woo-minimal-style,
         border-color: #CE90B1;
     }
 }
+
+.woocommerce form .form-row .required {
+    visibility: visible;
+}
+
+img#wpstats {
+    display: none
+}
+
+.woocommerce-product-gallery {
+    opacity: 1 !important;
+}
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.page-id-10701 header {
+    display: none;
+}
+
+.vc_custom_1616108618995 {
+    margin-top: 120px !important;
+    padding-top: 200px !important;
+    padding-bottom: 290px !important;
+    background: #faefed url(wp-content/uploads/2021/03/IMG_2346-2.jpg) !important;
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important;
+}
+
+@media (max-width: 1269px) and (min-width: 992px) {
+    .vc_custom_1616108618996 {
+        margin-top: 50px !important;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .vc_custom_1616108618996 {
+        margin-top: 0px !important;
+        padding-top: 150px !important;
+        padding-bottom: 200px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .vc_custom_1616108618997 {
+        margin-top: 0px !important;
+        padding-top: 0px !important;
+        padding-bottom: 150px !important;
+        background-color: #faefed !important;
+    }
+}
+
+.vc_custom_1615180626964 {
+    padding-top: 100px !important;
+    padding-bottom: 70px !important;
+}
+
+.vc_custom_1600787339354 {
+    margin-left: 0px !important;
+    padding-top: 30px !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+@media (max-width: 1269px) and (min-width: 992px) {
+    .vc_custom_1600787339355 {
+        padding-top: 50px !important;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .vc_custom_1600787339355 {
+        padding-top: 0px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .vc_custom_1600787339356 {
+        padding-top: 100px !important;
+    }
+}
+
+.vc_custom_1624469825600 {
+    margin-bottom: 0px !important;
+}
+
+.vc_custom_1614223755039 {
+    margin-bottom: 60px !important;
+}
+
+.vc_custom_1626832770014 {
+    margin-bottom: 20px !important;
+    background-color: #ce90b1 !important;
+}
+
+.vc_custom_1616109429654 {
+    background-color: #ce90b1 !important;
+}
+
+.vc_custom_1633866216513 {
+    background-color: #ce90b1 !important;
+}
+
+.vc_custom_1633866235638 {
+    background-color: #ce90b1 !important;
+}
+
+.vc_custom_1599050426917 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.vc_custom_1600339047282 {
+    margin-right: 60px !important;
+    margin-left: 60px !important;
+    padding-top: 100px !important;
+    padding-right: 0px !important;
+    padding-bottom: 400px !important;
+    padding-left: 0px !important;
+    background-color: #faefed !important;
+    border-radius: 50px !important;
+}
+
+@media (max-width: 1269px) and (min-width: 992px) {
+    .vc_custom_1600339047283 {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+        border-radius: 0px !important;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .vc_custom_1600339047283 {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+        border-radius: 0px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .vc_custom_1600339047284 {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+        border-radius: 0px !important;
+    }
+}
+
+.vc_custom_1600788630625 {
+    padding-top: 0px !important;
+}
+
+@media (max-width: 1269px) and (min-width: 992px) {
+    .vc_custom_1600788630626 {
+        padding-top: 0px !important;
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+    .vc_custom_1600788630626 {
+        padding-top: 0px !important;
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .vc_custom_1600788630627 {
+        padding-top: 0px !important;
+        padding-right: 15px !important;
+        padding-left: 15px !important;
+    }
+}
+
+.vc_custom_1614914768943 {
+    margin-bottom: 75px !important;
+}
+
+.wpb_animate_when_almost_visible {
+    opacity: 1;
+}
